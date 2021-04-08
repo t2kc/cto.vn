@@ -44,8 +44,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Delog GatbsyJS Starter`,
-        short_name: `Delog`,
+        name: `CTO Vietnam Community`,
+        short_name: `CTO.vn`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#381696`,
