@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "CTO Vietnam Community",
+  "siteUrl": "https://www.cto.vn",
+  "description": "Tech, news, videos and digital transformation in Vietnam",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Welcome to CTO Vietnam Community!",
+    "description": "Build a strongly knitted community of CxOs across Vietnam and be a powerful force for change through meaningful business and social relationships."
   }
 }
